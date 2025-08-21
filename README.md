@@ -1,6 +1,6 @@
 # TravelRouteFinder Telegram Bot
 
-**Author:** Atharva  
+**Author:** Atharva Gaikwad
 **Copyright:** 2025 Atharva. All Rights Reserved.
 
 ## Overview
